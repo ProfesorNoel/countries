@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: countries-ws
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mamoghli
+Implementation-Vendor-Id: nett.formacion.aaa.module4.spring.countries
+Build-Jdk: 1.8.0_91-3-redhat
+Implementation-URL: http://projects.spring.io/spring-boot/countries-ws
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
